@@ -6,7 +6,7 @@ const Home = async () => {
   console.log("Session data:", session);
 
   return <>
-
+  <h1 className="text-5xl">Hello NextJS</h1>
   </>;
 };
 
